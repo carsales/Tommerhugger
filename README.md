@@ -1,0 +1,2 @@
+# Tommerhugger
+Logging abstraction library
